@@ -7,6 +7,7 @@
 * クラスメソッド用ゲッターファンクター(GetFunctor)
 * クラスメソッド用セッターファンクター(SetFunctor)
 * ゲッターセッターを呼び出すファンクター(GetSetFunctor)
+* 静的メソッド用ゲッターファンクター(StaticGetFunctor)
 * シングルトンからインスタンスを取得し、ゲッターセッターを呼び出すファンクター(StaticInstanceGetSetFunctor)
   
 使い方は、中を覗けば分かるかと思います。  
